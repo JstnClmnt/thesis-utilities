@@ -1,0 +1,23 @@
+{
+  "name": "download-automate",
+  "version": "1.0.0",
+  "description": "Taga-dl ng dataset",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "flxrco",
+  "license": "ISC",
+  "dependencies": {
+    "cli-spinners": "^1.3.1",
+    "dataframe-js": "^1.3.2",
+    "fs": "0.0.1-security",
+    "ora": "^3.0.0",
+    "progress": "^2.0.1",
+    "request": "^2.88.0",
+    "request-progress": "^3.0.0",
+    "sprintf-js": "^1.1.1",
+    "url": "^0.11.0",
+    "ytdl-core": "^0.28.0"
+  }
+}
